@@ -1,5 +1,5 @@
 def game_hash(data)
-  epic_game = {
+  data = {
     home: {
       team_name: "Brooklyn Nets",
       colors: ["Black", "White"],
